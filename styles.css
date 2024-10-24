@@ -1,0 +1,12 @@
+body {
+    color: rgb(4, 4, 95);
+    background: whitesmoke;
+    margin: 0px;
+}
+
+header {
+    border-bottom: solid 2px rgb(4, 4, 95);
+    padding: 15px;
+    font-size: 35px;
+    color: rgb(4, 4, 95);
+}
